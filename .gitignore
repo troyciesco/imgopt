@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+
+# so i can keep images for a project close by without pushing them to github
+old
+
+# the below is so i don't accidentally push images i don't want to, but the folders are still there
+!input
+input/*
+!input/.keep
+
+!output
+output/*
+!output/.keep
