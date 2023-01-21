@@ -1,3 +1,5 @@
+// go here to look at all of the available api methods https://sharp.pixelplumbing.com/
+
 const sharp = require("sharp")
 const inputFilePath = `${__dirname}/input`
 const outputFilePath = `${__dirname}/output`
